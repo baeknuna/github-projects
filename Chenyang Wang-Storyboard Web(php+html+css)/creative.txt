@@ -1,0 +1,26 @@
+Name: KeZhou(Vita) Chen, Chenyang(Clara) Wang
+Student ID: 423121, 445113
+
+
+Link to the home page: http://ec2-52-25-45-59.us-west-2.compute.amazonaws.com/~vitac215/module3/index.php
+
+
+You may login as
+username: wustl
+password: wustl
+
+
+Brief description for the creative portion:
+(1) We create a profile page, which will appear when users login.
+On the profile page, the user can:
+- See a list of stories s/he has written, with the title, last modified time, and number of likes displayed
+- See a list of stories s/he has liked, with the number of likes displayed
+(2) Change password
+- The user can change his/her password on the profile page.
+- The user must enter the current password first, and if it matches, s/he can then enter a new password (need to confirm it by typing it twice).
+(3) Like
+- The user can like (by clicking the heart icon) a story on the display page.
+- On the display page (where all stories are displayed), the number of likes is displayed for each story.
+- The user cannot like his/her own story.
+- The user can only like each story once.
+
